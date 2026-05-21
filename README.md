@@ -42,10 +42,11 @@ Designed a complete, end-to-end Information Governance Policy for a tech-depende
 Covers UK GDPR, DPA 2018, PCI-DSS, ISO 27001, ISO 22301, NIST SP 800-30, disaster recovery, and a 5-stage implementation roadmap.  
 `iso27001` `gdpr` `risk-management` `data-protection` `compliance`
 
-### 🏛️ Two-Tier PKI on AWS
-Root CA + Issuing CA on AWS + Windows Server 2019.  
-TLS-enforced web server, Wireshark-validated encrypted comms.  
-→ Architecture diagrams + implementation notes in repo
+### 🏛️ [Two-Tier PKI — Windows Server & AWS](https://github.com/SHOBUsi/two-tier-pki-windows-server)
+End-to-end PKI build: offline Root CA (RSA 4096/SHA-256) → Enterprise Issuing CA → IIS TLS termination.  
+Deployed on AWS EC2 · Active Directory CS · Wireshark-validated HTTPS certificate chain.  
+Documented with screenshots at every stage from key ceremony to green-padlocked browser proof.  
+`pki` `active-directory` `tls` `aws` `windows-server` `certificate-authority`
 
 ### 🔬 Traffic Analysis Research — MSc Dissertation
 Risk pattern analysis of anonymity networks (Tor).  
