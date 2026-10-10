@@ -19,7 +19,7 @@ PKI design, SIEM tooling, and risk analysis. Published researcher on Exploit DB
 | Domain | Tools / Frameworks |
 |---|---|
 | Frameworks | ISO 27001, NIST, Cyber Essentials |
-| SIEM & Monitoring | Splunk, Wireshark|
+| SIEM & Monitoring | Splunk, Wireshark, Defender XDR, Sentinel|
 | Network Security | Cisco IOS, IPsec VPN, Firewall ACL, VLAN, Zero Trust |
 | Pentesting | Nmap, Metasploit, Burp Suite |
 | Cloud & Infra | AWS, Windows Server 2019, Linux, macOS |
