@@ -11,7 +11,6 @@ Cybersecurity graduate with hands-on experience in network security architecture
 PKI design, SIEM tooling, and risk analysis. Published researcher on Exploit DB 
 (GHDB-IDs: 7787 & 7788) and an IEEE-published author on dark web threat analysis.
 
-Seeking entry-level roles in: **SOC Analyst | Security Engineer | Penetration Testing | Security Analyst**
 
 ---
 
